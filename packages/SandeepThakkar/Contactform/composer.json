@@ -1,0 +1,17 @@
+{
+    "name": "SandeepThakkar/Contactform",
+    "description": "A contact form package for laravel",
+    "authors": [
+        {
+            "name": "Sandeep Thakkar",
+            "email": "thakkarsandeep8@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SandeepThakkar\\Contactform\\": "src/"
+        }
+    }
+}
